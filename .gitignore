@@ -1,0 +1,15 @@
+*.pyc
+*.swp
+*.swo
+*.h5
+*.state
+*.mat
+*.sh
+*.pdf
+data/*
+!data/download.sh
+!data/preprocess.py
+!data/preprocess_implicit.py
+output/
+local/
+*_bk.py
